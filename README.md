@@ -1,2 +1,2 @@
-fthomas.github.com
-==================
+fthomas.github.io
+=================
